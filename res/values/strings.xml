@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="empty_view_text"><Vide></Vide></string>
+    <string name="item_format_string">%1$s</string>
+    <string name="title_activity_popup_menu">PopupMenuActivity</string>
+    <string name="title_activity_additem_menu">AddItemMenuActivity</string>
+    <string name="title_activity_cleanlist_menu">CleanListMenuActivity</string>
+    <string name="title_activity_loading_menu">LoadingMenuActivity</string>    
+    <string name="action_settings">Settings</string>
+
+</resources>
